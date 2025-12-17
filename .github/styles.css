@@ -1,0 +1,15 @@
+
+nav{ 
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #D996A2;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+ul {
+    list-style-type: none; 
+    display: flex;
+    justify-content: space-evenly;
+   
+}
